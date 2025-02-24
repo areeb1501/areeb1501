@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=areeb1501" alt="areeb1501" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/_areebpasha" target="blank"><img src="https://img.shields.io/twitter/follow/_areebpasha?logo=twitter&style=for-the-badge" alt="_areebpasha" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_areebpasha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_areebpasha" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/areebpasha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="areebpasha" height="30" width="40" /></a>
 </p>
 
